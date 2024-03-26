@@ -1,0 +1,22 @@
+#Zasoby{
+float: left;
+width: 70%;
+
+}
+#content{
+    float: left;
+    width: 30%;
+
+}
+li, ul{
+list-style: none;
+display: inline;
+}
+button{
+    background-color: brown;
+    width: 200px;
+    height: 50px;
+    margin: 10px;
+ 
+
+}
